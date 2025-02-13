@@ -1,5 +1,6 @@
 membuat urutan nama mahasiswa sesuai huruf abjad
 
--tahun masuk
+- tahun masuk
+  *urutan tahun mahasiswa paling lama
 -umur
 -kelas
