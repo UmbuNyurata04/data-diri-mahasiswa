@@ -1,0 +1,4 @@
+data diri
+-konsistem membuat file data mahasiswa
+-membuat id nama, ttl, gender, alamat mahasiswa
+-membuat forum diskusi
